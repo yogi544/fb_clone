@@ -1,0 +1,19 @@
+.header{
+  display: flex;
+  padding: 15px 20px;
+  justify-content: space-between;
+  position: sticky;
+  background-color: white;
+  z-index: 10;
+  top: 0;
+  box-shadow: 0px 5px 8px -8px black;
+}
+
+.header-center{
+display: flex;
+flex: 1;
+justify-content: center;
+}
+.header-option{
+  margin: 10px;
+}
